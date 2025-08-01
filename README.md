@@ -1,2 +1,3 @@
 # website_comments_ection
 个人网站评论区，请将评论提交至issues
+评论将会在 评论模块JS脚本制作完成后 被网站的JS脚本自动拉取至访问者的网页
